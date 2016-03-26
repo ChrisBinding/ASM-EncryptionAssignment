@@ -1,0 +1,17 @@
+﻿Build started 02/05/2014 02:34:51.
+     1>Project "C:\Users\Chris\Dropbox\University\Year 1\Fundamentals of Computer Architecture\Assignment 2\FoCA Assignment 2 - Milestone 2\FoCA Assignment 2 - Milestone 2\FoCA Assignment 2 - Milestone 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "FoCA Assignment 2 - Milestone 2.cpp"
+         FoCA Assignment 2 - Milestone 2.cpp
+     1>c:\users\chris\dropbox\university\year 1\fundamentals of computer architecture\assignment 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2.cpp(78): warning C4731: 'encrypt_chars' : frame pointer register 'ebp' modified by inline assembly code
+     1>c:\users\chris\dropbox\university\year 1\fundamentals of computer architecture\assignment 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2.cpp(92): warning C4731: 'encrypt_chars' : frame pointer register 'ebp' modified by inline assembly code
+     1>c:\users\chris\dropbox\university\year 1\fundamentals of computer architecture\assignment 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2.cpp(138): warning C4731: 'decrypt_chars' : frame pointer register 'ebp' modified by inline assembly code
+     1>c:\users\chris\dropbox\university\year 1\fundamentals of computer architecture\assignment 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2\foca assignment 2 - milestone 2.cpp(151): warning C4731: 'decrypt_chars' : frame pointer register 'ebp' modified by inline assembly code
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chris\Dropbox\University\Year 1\Fundamentals of Computer Architecture\Assignment 2\FoCA Assignment 2 - Milestone 2\Debug\FoCA Assignment 2 - Milestone 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Chris\Dropbox\University\Year 1\Fundamentals of Computer Architecture\Assignment 2\FoCA Assignment 2 - Milestone 2\Debug\FoCA Assignment 2 - Milestone 2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chris\Dropbox\University\Year 1\Fundamentals of Computer Architecture\Assignment 2\FoCA Assignment 2 - Milestone 2\Debug\FoCA Assignment 2 - Milestone 2.lib" /MACHINE:X86 "Debug\FoCA Assignment 2 - Milestone 2.obj"
+         FoCA Assignment 2 - Milestone 2.vcxproj -> C:\Users\Chris\Dropbox\University\Year 1\Fundamentals of Computer Architecture\Assignment 2\FoCA Assignment 2 - Milestone 2\Debug\FoCA Assignment 2 - Milestone 2.exe
+     1>Done Building Project "C:\Users\Chris\Dropbox\University\Year 1\Fundamentals of Computer Architecture\Assignment 2\FoCA Assignment 2 - Milestone 2\FoCA Assignment 2 - Milestone 2\FoCA Assignment 2 - Milestone 2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57
